@@ -1,0 +1,17 @@
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.exe
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.deps.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.runtimeconfig.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\RestEase.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.Services.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.Services.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge\obj\Release\net8.0\PubTmp\Out\BlipChallenge.Models.pdb

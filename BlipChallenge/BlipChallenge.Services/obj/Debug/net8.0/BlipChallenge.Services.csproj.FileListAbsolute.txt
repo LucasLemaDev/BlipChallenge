@@ -1,0 +1,16 @@
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.csproj.AssemblyReference.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.AssemblyInfoInputs.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.AssemblyInfo.cs
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\bin\Debug\net8.0\BlipChallenge.Services.deps.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\bin\Debug\net8.0\BlipChallenge.Services.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\bin\Debug\net8.0\BlipChallenge.Services.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\bin\Debug\net8.0\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\bin\Debug\net8.0\BlipChallenge.Models.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.csproj.CopyComplete
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\refint\BlipChallenge.Services.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\ref\BlipChallenge.Services.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Services\obj\Debug\net8.0\BlipChallenge.Services.sourcelink.json

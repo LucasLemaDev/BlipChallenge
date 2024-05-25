@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8rVn2L0W/csbgHtG4eXSyF1lUxy8NvQsB6WJ9ln+kJGSWil1xdrk0zgV1ECajMHeb7HikZRZ3pBbf/kn/ZPVwg==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\Blip\\BlipChallenge\\BlipChallenge.Models\\BlipChallenge.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

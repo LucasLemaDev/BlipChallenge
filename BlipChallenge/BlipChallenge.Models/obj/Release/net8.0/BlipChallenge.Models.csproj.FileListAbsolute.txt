@@ -1,0 +1,13 @@
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\bin\Release\net8.0\BlipChallenge.Models.deps.json
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\bin\Release\net8.0\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\bin\Release\net8.0\BlipChallenge.Models.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.csproj.AssemblyReference.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.AssemblyInfoInputs.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.AssemblyInfo.cs
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\refint\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.pdb
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\ref\BlipChallenge.Models.dll
+D:\WorkSpace\Blip\BlipChallenge\BlipChallenge.Models\obj\Release\net8.0\BlipChallenge.Models.sourcelink.json
